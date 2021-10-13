@@ -9,6 +9,9 @@ Languages I work with:
 - HTML/CSS
 
 Experience with:
+-React
+-MongoDB
+-Node.js
 -BootStrap4
 -Google Firebase
 -Android Studio
