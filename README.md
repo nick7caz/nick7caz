@@ -12,6 +12,7 @@ Experience with:
 -React
 -MongoDB
 -Node.js
+-Express
 -BootStrap4
 -Google Firebase
 -Android Studio
