@@ -2,6 +2,7 @@
 - 👀 I’m interested in App and Web Development
 - 🌱 I’m currently learning Front End Development
 - 📫 How to reach me nick7caz@gmail.com
+- my portfolio at https://nickcaz-dev.vercel.app/
 
 Languages I work with:
 - Flutter/Dart
