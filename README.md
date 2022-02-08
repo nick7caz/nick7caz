@@ -4,23 +4,23 @@
 - 📫 How to reach me nick7caz@gmail.com
 - my portfolio at https://nickcaz-dev.vercel.app/
 
-Languages I work with:
+
+Experience with:
 - Flutter/Dart
 - JavaScript
 - HTML/CSS
-
-Experience with:
--React
--MongoDB
--Node.js
--Express
--BootStrap4
--Google Firebase
--Android Studio
--Adobe XD and Adobe Creative Suite
--Figma
--Rive
--Wordpress
+- MySQL
+- React
+- MongoDB
+- Node.js
+- Express
+- BootStrap4
+- Google Firebase
+- Android Studio
+- Adobe XD and Adobe Creative Suite
+- Figma
+- Rive
+- Wordpress
 
 
 <!---
