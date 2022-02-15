@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nick7caz
-- 👀 I’m interested in App and Web Development
-- 🌱 I’m currently learning Front End Development
+- 🌱 I’m currently learning Java and Python
 - 📫 How to reach me nick7caz@gmail.com
 - my portfolio at https://nickcaz-dev.vercel.app/
 
