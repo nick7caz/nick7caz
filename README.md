@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nick7caz
-- 🌱 I’m currently learning Java and Python
+- 🌱 I’m currently learning Python
 - 📫 How to reach me nick7caz@gmail.com
 - my portfolio at https://nickcaz-dev.vercel.app/
 
