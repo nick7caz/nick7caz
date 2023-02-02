@@ -46,7 +46,7 @@ My journey with programming started in December of '20. I started with Flutter/D
 
 <a href="http://www.github.com/nick7caz"><img src="https://github-readme-stats.vercel.app/api?username=nick7caz&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nick7caz's GitHub stats" /></a>
 
-<a href="http://www.github.com/nick7caz"><img src="https://activity-graph.herokuapp.com/graph?username=nick7caz&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+[![Nick's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nick7caz&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!---
 nick7caz/nick7caz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
