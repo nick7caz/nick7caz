@@ -9,8 +9,8 @@ My journey with programming started in December of '20. I started with Flutter/D
 * 🌍  I'm based in Santa Cruz, CA
 * 🖥️  See my portfolio at [My Portfolio](http://nickcaz-dev.vercel.app/)
 * ✉️  You can contact me at [nick7caz@gmail.com](mailto:nick7caz@gmail.com)
-* 🚀  I'm currently working on [Collar](http://github.com/nick7caz/collar)
-* 🧠  I'm learning Python
+* 🚀  I'm currently working on [Post Card]
+
 
 ### Skills
 
