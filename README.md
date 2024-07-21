@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nick</h1>
-<h3 align="center">a full stack engineer</h3>
+<h3 align="center">a full stack engineer, with a focus on app development with Flutter</h3>
 
 - 🔭 I’m currently working on [Post Card Social](mypostcard.social)
 
